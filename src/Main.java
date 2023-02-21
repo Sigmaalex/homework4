@@ -1,5 +1,8 @@
-public class Main {
+}public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello world!");
-    }
-}
+//        task1();
+//        task2();
+//        task3();
+//        task4();
+//        task5();
+
