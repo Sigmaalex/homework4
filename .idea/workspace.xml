@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c4024326-1b25-4bb3-b2a8-556d5d4b06b3" name="Changes" comment="" />
+    <list default="true" id="c4024326-1b25-4bb3-b2a8-556d5d4b06b3" name="Changes" comment="начало">
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -9,6 +11,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2M2sYpEmc9ULWaNo63S03uRUZW4" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -32,8 +37,58 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1676977063493</updated>
-      <workItem from="1676977065078" duration="1000" />
+      <workItem from="1676977065078" duration="299000" />
     </task>
+    <task id="LOCAL-00001" summary="1">
+      <created>1676977189271</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1676977189271</updated>
+    </task>
+    <task id="LOCAL-00002" summary="начало">
+      <created>1676977310386</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1676977310386</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="54fe99d5-893f-4fe3-9037-d4272078b6b1">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="54fe99d5-893f-4fe3-9037-d4272078b6b1" value="TOOL_WINDOW" />
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1" />
+    <MESSAGE value="начало" />
+    <option name="LAST_COMMIT_MESSAGE" value="начало" />
   </component>
 </project>
